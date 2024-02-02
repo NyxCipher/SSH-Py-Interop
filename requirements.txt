@@ -1,0 +1,7 @@
+dash==2.13.0
+dash_html_components==2.0.0
+dashing==0.1.0
+keyboard==0.13.5
+numpy==1.26.0
+rich==13.6.0
+simple_term_menu==1.6.1

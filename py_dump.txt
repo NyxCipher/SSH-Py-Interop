@@ -1,0 +1,13 @@
+# Useful Commands For Later:
+
+control_message.add_row(
+        "Twitter",
+        "[u blue link=https://twitter.com/textualize]https://twitter.com/textualize",
+    )
+    control_message.add_row(
+        "CEO",
+        "[u blue link=https://twitter.com/willmcgugan]https://twitter.com/willmcgugan",
+    )
+    control_message.add_row(
+        "Textualize", "[u blue link=https://www.textualize.io]https://www.textualize.io"
+    )

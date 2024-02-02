@@ -1,0 +1,24 @@
+husky.py
+    rich console example (live)
+        https://github.com/Textualize/rich/blob/master/examples/fullscreen.py
+    rich-layout-example
+        https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/
+    rich-cli suite
+        https://github.com/textualize/rich-cli
+    rich-docs
+        https://rich.readthedocs.io/en/latest/layout.html
+husky_layout.py
+    rich-layout-example-2
+        https://github.com/Textualize/rich/blob/master/examples/layout.py
+_dashing.py
+    dashing-github
+        https://github.com/FedericoCeratto/dashing
+    dashing-docs
+        https://dashing.readthedocs.io/en/latest/
+term-menu.py
+    simple-term-menu-docs
+        https://pypi.org/project/simple-term-menu/
+intergrate.py
+    simple-term-menu && rich-layout example
+t_dash.py
+    TerminalMenu && WebBashed Dashboard
