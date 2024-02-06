@@ -1,3 +1,7 @@
+## Development Update
+- Adding Multi-Threading for Simultaneous Operations
+- Will Look into CPU Max Thread Count Limits
+
 # SSH-Py-Interop
 SSH-Py-Interop
 
