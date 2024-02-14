@@ -35,7 +35,7 @@ Some 'ThreeOdd' Sleepless Weeks Between Work
 See MIT License
 
 ### Refactoring:
-By: Anonymous
+By: Chat-GPT 4
 
 ![#5623](https://dl.openseauserdata.com/cache/originImage/files/d3f1931fed73fee877980acf78b420b6.svg)
 
